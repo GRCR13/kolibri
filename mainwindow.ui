@@ -63,7 +63,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Запуститть</string>
+     <string>Запустить</string>
     </property>
    </widget>
    <widget class="QComboBox" name="cb_rewrite_mode">
